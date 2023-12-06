@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**niibraz/niibraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Oiie , eu sou a Ni 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/ni.braz/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+)]()
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
+)]()
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+)]()
+
+
+[![NiBraz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=niibraz&show_icons=true&theme=dark#gh-dark-mode-only)]()
+
+### Tecnologias do dia a dia ✨
+
+[![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+)]()
+[![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+)]()
+[![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+)]()
+
+<strong>Dev em construção :)</strong>
