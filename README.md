@@ -6,6 +6,8 @@
 )](https://www.instagram.com/ni.braz/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 )]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white
+)]()
 
 ### Tecnologias que estou aprendendo✨
 
