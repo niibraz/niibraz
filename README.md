@@ -20,3 +20,5 @@
 ##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niibraz&show_icons=true&locale=en&layout=compact" alt="NiiBraz" /><br>
