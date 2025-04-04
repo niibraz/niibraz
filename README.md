@@ -1,6 +1,6 @@
 
 
-### Oiie , meu nome é Niethilley e sou estudante na área tech 👋
+### Oiie , meu nome é Niethilley e estou estudando desenvolvimento front-end👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/ni.braz/)
