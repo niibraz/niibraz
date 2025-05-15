@@ -1,6 +1,6 @@
 
 
-### Oiie , meu nome é Niethilley e estou estudando para me tornar uma desenvolvedora front-end👋
+### Oiie , meu nome é Niethilley e estou estudando para me tornar uma desenvolvedora👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/ni.braz/)
